@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "492480009901",
+    "project_id": "sign-in-e07ab",
+    "storage_bucket": "sign-in-e07ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492480009901:android:612b8b697ef8235bb21824",
+        "android_client_info": {
+          "package_name": "bazzi.shariaty.googlesignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492480009901-jb7pbcs4r4l41thr36sghm7vsms1qqnl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "bazzi.shariaty.googlesignin",
+            "certificate_hash": "76582be68c0e51010777e0d3e9e594191c761e16"
+          }
+        },
+        {
+          "client_id": "492480009901-0sb28fvc38tc3g427av9f69lc4ltha9p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5Vc7dWrayTrZvTztYq0i2WXVSjd9h9Qo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492480009901-0sb28fvc38tc3g427av9f69lc4ltha9p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
